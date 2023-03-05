@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Alien-Go-Home/static/css/main.1b4d3fb7.css",
+    "main.js": "/Alien-Go-Home/static/js/main.2eabc59a.js",
+    "index.html": "/Alien-Go-Home/index.html",
+    "main.1b4d3fb7.css.map": "/Alien-Go-Home/static/css/main.1b4d3fb7.css.map",
+    "main.2eabc59a.js.map": "/Alien-Go-Home/static/js/main.2eabc59a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b4d3fb7.css",
+    "static/js/main.2eabc59a.js"
+  ]
+}
